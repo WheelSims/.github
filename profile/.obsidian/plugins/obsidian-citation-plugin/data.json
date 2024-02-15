@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Notebox",
+  "literatureNoteContentTemplate": "# {{title}}\n\n{{authorString}}. *{{containerTitle}}*, {{year}}.\n[Link to Zotero]({{zoteroSelectURI}})\n\n## Abstract\n\n{{abstract}}\n\n## Notes\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "z_attachments/My Library.bib"
+}
