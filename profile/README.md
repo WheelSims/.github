@@ -27,11 +27,11 @@ This repository must be cloned including its submodule, using:
 git clone --recurse-submodules git://github.com/wheelsims/sim_generic_vr
 
 If you're using SourceTree, choose New → Clone from URL and fill these informations:
-![[attachments/clip_image001.png]]
+![](attachments/clip_image001.png)
 
 Once cloned, the project looks like this in SourceTree (note the submodules):
 
-![[attachments/clip_image002.png]]
+![](attachments/clip_image002.png)
 
 
 In the screenshot above (which was not taken right after a clone), we can see that two submodules need our attention. These ones need both pushes and pulls.
