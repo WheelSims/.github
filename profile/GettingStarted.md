@@ -2,7 +2,7 @@
 
 The WheelSims project is a set of blocks distributed on different repositories, that can be shared among wheelchair simulators to accelerate the development of virtual reality in wheelchair training.
 
-Since `git` is already complex for newcomers, having multiple repositories can be still complex. For this reason, we recommend to use a good GUI to stay up to date and ease collaborative development. In these README files, we make use of [SourceTree](https://www.sourcetreeapp.com/), a free `git` client for Mac and Windows.
+Since `git` is already complex for newcomers, having multiple repositories is yet more complex. For this reason, we recommend to use a good GUI to stay up to date and ease collaborative development. In these README files, we make use of [SourceTree](https://www.sourcetreeapp.com/), a free `git` client for Mac and Windows.
 
 ## "Pull with submodules" custom action
 
