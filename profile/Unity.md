@@ -14,7 +14,9 @@ In the Assets folder of the Unity project, there are several git submodules that
 
 ## Updating (pull)
 
-Use the "Pull with submodules" custom action that you created in "Getting started".
+In SourceTree, open each submodule and **pull** its changes.
+
+Finally, **pull** the change from the main repository.
 
 ## Editing
 
@@ -22,4 +24,7 @@ When working on the game, one must make sure that the new files (scripts, textur
 
 ## Committing
 
-To commit the changes, start by commiting and pushing every change to the submodules. Then, commit and push the changes to the main repository.
+In SourceTree, open each submodule and **commit** the changes to commit, if any. Then **push** the changes.
+
+Finally, **commit** the changes to the main repository, then **push** them.
+
