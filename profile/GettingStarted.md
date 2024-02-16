@@ -39,6 +39,4 @@ In the screenshot above (which was not taken right after a clone), we can see th
 
 ## Opening in Unity
 
-- For `sim_generic_vr`, open Unity Hub and open the root folder of your local clone.
-- For `sim_irglm`, open Unity Hub and open the Unity subfolder of your local clone.  FIXME! Not done yet.
-
+- Launch Unity Hub and open the Unity subfolder of your local clone.
