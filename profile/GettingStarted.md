@@ -30,12 +30,9 @@ To clone a repository locally with all its submodule, choose `New` → `Clone fr
 
 ![image](https://github.com/WheelSims/sim_generic_vr/assets/34967663/d9d2e243-29f7-4dea-994a-e5b46fa4fef7)
 
-Once cloned, the project looks like this in SourceTree (note the submodules):
+Once cloned, the project looks like this in SourceTree. Note submodules pane: double-clicking on a submodule launches a new repository window for this specific repository.
 
-![Screen Shot 2024-02-14 at 15 37 06](https://github.com/WheelSims/sim_generic_vr/assets/34967663/5093f6aa-ee5a-4223-9402-8472cb9290a4)
-
-In the screenshot above (which was not taken right after a clone), we can see that two submodules need our attention. These ones need both pushes and pulls.
-
+![Screen Shot 2024-02-16 at 09 50 35](https://github.com/WheelSims/.github/assets/34967663/d60469de-92e6-4135-8061-1caa2177867d)
 
 ## Opening in Unity
 
