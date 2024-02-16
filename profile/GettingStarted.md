@@ -4,17 +4,6 @@ The WheelSims project is a set of blocks distributed on different repositories, 
 
 Since `git` is already complex for newcomers, having multiple repositories is yet more complex. For this reason, we recommend to use a good GUI to stay up to date and ease collaborative development. In these README files, we make use of [SourceTree](https://www.sourcetreeapp.com/), a free `git` client for Mac and Windows.
 
-## "Pull with submodules" custom action
-
-To ease pulling changes from a toplevel repository and from every submodule at once, we suggest to add a custom action in SourceTree. In SourceTree settings, go to the custom action pane:
-
-![Screen Shot 2024-02-15 at 15 54 25](https://github.com/WheelSims/.github/assets/34967663/af713a4a-d311-4252-969b-2a7730b1f7e9)
-
-and add this action:
-
-![Screen Shot 2024-02-15 at 15 55 04](https://github.com/WheelSims/.github/assets/34967663/7eec0dd2-5790-43b5-b7c8-9d44a466fe69)
-
-You can now access this action under menu `Action` → `Custom Actions`. Use this action everytime you would use the "Pull" button. This makes sure every local component is up to date.
 
 ## Toplevel repositories
 
