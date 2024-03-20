@@ -12,19 +12,6 @@ In the Assets folder of the Unity project, there are several git submodules that
 - `vr_user` : A game object with basic physics, one main camera and colliders that represents the user in a first-person point of view. This is also where we put the interfacing scripts with external devices, such as DBox, haptics, motion analysis.
 
 
-## Updating (pull)
+## Opening the Unity project
 
-In SourceTree, open each submodule and **pull** its changes.
-
-Finally, **pull** the change from the main repository.
-
-## Editing
-
-When working on the game, one must make sure that the new files (scripts, textures, etc.) added to a scene are placed in the correct folder, so that they will be added to the right repository.
-
-## Committing
-
-In SourceTree, open each submodule and **commit** the changes to commit, if any. Then **push** the changes.
-
-Finally, **commit** the changes to the main repository, then **push** them.
-
+In Unity Hub, open the folder `Unity` of your main repository.
