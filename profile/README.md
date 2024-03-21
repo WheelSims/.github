@@ -1,2 +1,2 @@
 # ↓ WheelSims documentation
-https://wheelsims.github.io/doc
+https://wheelsims.github.io/wheelsims_doc
