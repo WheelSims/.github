@@ -1,6 +1,7 @@
 - [Documentation](https://github.com/WheelSims/wheelsims_doc/blob/main/README.md)
 - [Main project board](https://github.com/orgs/WheelSims/projects/1)
 - [Obstacle Race project board](https://github.com/orgs/WheelSims/projects/2)
+- [Biofeedback project board](https://github.com/orgs/WheelSims/projects/3)
 - [All issues](https://github.com/WheelSims/wheelsims/issues)
 
 -------------
